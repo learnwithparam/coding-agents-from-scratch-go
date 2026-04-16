@@ -1,0 +1,5 @@
+.env
+bin/
+/lwp-coding-agent
+*.test
+.DS_Store
