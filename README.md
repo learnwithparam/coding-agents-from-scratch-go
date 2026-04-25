@@ -86,8 +86,8 @@ make down           Stop the container
 make clean          Remove build artifacts
 ```
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) - Learn AI Engineering through hands-on projects.
-
-Explore more courses at [learnwithparam.com/courses](https://learnwithparam.com/courses).
+- Start the course: [learnwithparam.com/courses/coding-agents-from-scratch-go](https://www.learnwithparam.com/courses/coding-agents-from-scratch-go)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
